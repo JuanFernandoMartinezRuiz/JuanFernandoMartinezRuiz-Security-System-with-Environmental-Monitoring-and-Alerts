@@ -1,3 +1,4 @@
+**Security System with Environmental Monitoring and Alerts**
 ﻿This project implements a security system with environmental monitoring and alert functions using a PIC16F887 microcontroller. The system utilizes multiple sensors to measure environmental factors and provides different alert statuses, making it ideal for applications that require real-time monitoring and security enforcement.
 
 **Features**
